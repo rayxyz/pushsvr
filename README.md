@@ -15,7 +15,7 @@ content => 推送的内容
 	"content": "Hi, push server!!"
 }
 ```
-![请求](https://i1.wp.com/raywangblog.files.wordpress.com/2017/08/jgpush-request.png?ssl=1&w=450)
+![请求](https://raywangblog.files.wordpress.com/2017/08/jgpush-request.png)
 ## 成功时返回
 ```
 {"success":"true","msg":"Successfully pushed data.","data":"{\"sendno\":\"0\",\"msg_id\":\"1973830861\"}"}
