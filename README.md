@@ -5,6 +5,8 @@
 本服务版本是最基本的，没有用到标签tag和用户群组；如用到这些功能，请参考官方文档进行设置。
 在以后我会完善服务程序以及本文档，希望做得全一些。
 
+在服务程序用到了第三方库[ylywyn/jpush-api-go-client](https://github.com/ylywyn/jpush-api-go-client)，并改写了例子程序。
+
 ## 创建极光推送账号
 ![创建账号](https://raywangblog.files.wordpress.com/2017/08/jgpush-account.png)
 
