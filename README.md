@@ -2,13 +2,13 @@
 极光推送服务demo
 
 ## 创建极光推送账号
-![创建账号](https://raywangblog.files.wordpress.com/2017/08/jgpush-request.png)
+![创建账号](https://raywangblog.files.wordpress.com/2017/08/jgpush-account.png)
 
 ## 创建应用并配置应用
-![应用信息](https://raywangblog.files.wordpress.com/2017/08/jgpush-request.png)
+![应用信息](https://raywangblog.files.wordpress.com/2017/08/jgpush-app-info.png)
 
 ## 推送配置
-![推送配置信息](https://raywangblog.files.wordpress.com/2017/08/jgpush-request.png)
+![推送配置信息](https://raywangblog.files.wordpress.com/2017/08/jgpush-app-push-settings.png)
 
 ## 编写Go服务端，对外提供push调用服务
 ![coding](https://raywangblog.files.wordpress.com/2017/08/jgpush-coding.png)
