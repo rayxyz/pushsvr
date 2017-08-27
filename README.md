@@ -15,9 +15,11 @@
 
 ## 按照极光推送官网文档说明
 > 将配置的应用下载下来，导入到Android Studio
+
 ![导入应用](https://raywangblog.files.wordpress.com/2017/08/import-module.png)
 
 > 将应用打包到Android设备
+
 ![打包应用到设备](https://raywangblog.files.wordpress.com/2017/08/install-app-to-android-device.png)
 
 ## 请求地址
