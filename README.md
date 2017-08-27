@@ -10,9 +10,6 @@
 ## 推送配置
 ![推送配置信息](https://raywangblog.files.wordpress.com/2017/08/jgpush-app-push-settings.png)
 
-## 编写Go服务端，对外提供push调用服务
-![coding](https://raywangblog.files.wordpress.com/2017/08/jgpush-coding.png)
-
 ## 按照极光推送官网文档说明
 > 将配置的应用下载下来，导入到Android Studio
 
@@ -21,6 +18,14 @@
 > 将应用打包到Android设备
 
 ![打包应用到设备](https://raywangblog.files.wordpress.com/2017/08/install-app-to-android-device.png)
+
+## 编写Go服务端，对外提供push调用服务
+![coding](https://raywangblog.files.wordpress.com/2017/08/jgpush-coding.png)
+
+## 部署推送服务
+> 这里我将应用部署到个人服务器www.ray-xyz.com
+
+![部署推送服务器](https://raywangblog.files.wordpress.com/2017/08/jgpush-deploy-push-server.png)
 
 ## 请求地址
 > post请求
