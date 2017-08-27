@@ -64,6 +64,7 @@ Push server runs on port 6060.2017/08/28 03:27:39 params =>  {notif Hi, push ser
 ![Android收到推送消息](https://raywangblog.files.wordpress.com/2017/08/jgpush-success.png)
 
 ## LICENSE
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
